@@ -1,7 +1,6 @@
 *,
 *::before,
 *::after { box-sizing: border-box; }
-
 :root{
   --gutter: 2%;
   --radius: 6px;
